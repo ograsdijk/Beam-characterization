@@ -100,3 +100,6 @@ ENV/
 
 # desktop.ini
 desktop.ini
+
+*.png
+*.mp4
